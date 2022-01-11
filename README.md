@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DevSSH</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxdevsshxx&label=Profile%20views&color=0e75b6&style=flat" alt="xxdevsshxx" /> </p>
 
-<p align="left"> <a href="https://twitter.com/xxdevsshxx" target="blank"><img src="https://img.shields.io/twitter/follow/xxdevsshxx?logo=twitter&style=for-the-badge" alt="xxdevsshxx" /></a> </p>
+<p align="left"> <a href="https://twitter.com/xxdevsshxx" target="blank"><img src="https://img.shields.io/twitter/follow/xxdevsshxx_?logo=twitter&style=for-the-badge" alt="xxdevsshxx_" /></a> </p>
 
 - 🔭 I’m currently working on [Pro Capture](https://github.com/xXDevSShXx/ProCapture)
 
