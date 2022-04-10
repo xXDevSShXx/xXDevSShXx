@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/xxdevsshxx" target="blank"><img src="https://img.shields.io/twitter/follow/xxdevsshxx_?logo=twitter&style=for-the-badge" alt="xxdevsshxx_" /></a> </p>
 
-- 🔭 I’m currently working on [PedarMusic Discord Bot](https://github.com/xXDevSShXx/PedarMusic)
+- 🔭 I’m currently working on [nothing]()
 
 - 🌱 I’m currently learning **.Net FrameWork**
 
